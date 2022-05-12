@@ -1,0 +1,8 @@
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.exe.config
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.exe
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.pdb
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.csproj.AssemblyReference.cache
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.csproj.SuggestedBindingRedirects.cache
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.csproj.CoreCompileInputs.cache
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.exe
+D:\PROJETOS BACKEND\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.pdb
