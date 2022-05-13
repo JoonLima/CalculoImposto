@@ -14,7 +14,7 @@ namespace CalculoImposto
         {
             List<Contribuinte> list = new List<Contribuinte>();
 
-            Console.Write("Entre com a quantidade de contribuíntes: ");
+            Console.Write("Entre com a quantidade de contribuintes: ");
             int x = int.Parse(Console.ReadLine());
             Console.WriteLine();
 
